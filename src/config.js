@@ -1,3 +1,5 @@
+import { TramOutlined } from "@material-ui/icons";
+
 const config = {
     symbl: {
         // If set to true, a dialog for entering Symbl App ID and App Secret will pop up.
